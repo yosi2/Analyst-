@@ -1,0 +1,6 @@
+{
+  "name": "Eyo AI Data Analyst",
+  "description": "A professional AI-powered CSV data analyst. Select sample datasets or upload your own CSV and ask natural language questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
